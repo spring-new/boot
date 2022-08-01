@@ -1,4 +1,5 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Aug 01 19:41:09 CST 2022
+#Mon Aug 01 23:06:55 CST 2022
 mysql-connector-java-8.0.29.jar>alimaven=
+mysql-connector-java-8.0.29-sources.jar>aliyunmaven=
 mysql-connector-java-8.0.29.pom>alimaven=
